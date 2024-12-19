@@ -2,8 +2,7 @@
 Personal Finance Tracker
 
 What it is: 
-
-It is a lightweight console-based application for tracking income and expenses.
+- It is a lightweight console-based application for tracking income and expenses.
 
 
 
